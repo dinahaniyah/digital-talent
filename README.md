@@ -1,5 +1,6 @@
 # Digital-talent
-Tugas perhitungan nilai BMI
+#### Tugas perhitungan nilai BMI
+Input : weight(kg) dan height(cm)
 
 ## Formula : 
 BMI = weight (kg) ÷ height^2 (m^2)
